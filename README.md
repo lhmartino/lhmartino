@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Luiz Martino's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhmartino&theme=nord&show_icons=true)](https://github.com/lhmartino/github-readme-stats)
+
 <!--
 **lhmartino/lhmartino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
